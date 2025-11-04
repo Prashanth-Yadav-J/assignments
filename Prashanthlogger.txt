@@ -1,0 +1,6 @@
+Println got executed
+Print got executed
+Printf got executed
+Error got executed
+Logger got executed
+Class executed successfully
