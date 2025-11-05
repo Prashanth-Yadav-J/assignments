@@ -5,6 +5,14 @@ import java.io.PrintWriter;
 import java.util.logging.Logger;
 
 public class PrintStatements {
+	
+	
+	/*
+	 * This programs helps you to execute different type of print statements
+	 * 1.println 2.print 3.printf 4.err 5.creating logs 6.writing logs into logger
+	 * file
+	 */
+	 
 
 	public static void main(String[] args) throws FileNotFoundException {
 		
